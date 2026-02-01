@@ -1,0 +1,16 @@
+! Title: Brave Services Allowlist
+! Description: Allow Brave browser services, rewards, and analytics
+! Last modified: 2026-02-01
+! 
+@@||ads.brave.com^
+@@||anonymous.ads.brave.com^
+@@||geo.ads.brave.com^
+@@||mywallet.ads.brave.com^
+@@||static.ads.brave.com^
+@@||ads-static.brave.com^
+@@||analytics.brave.com^
+@@||rewards.brave.com^
+@@||api.rewards.brave.com^
+@@||grant.rewards.brave.com^
+@@||stats.brave.com^
+@@||variations.brave.com^

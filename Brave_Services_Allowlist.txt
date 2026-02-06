@@ -15,5 +15,5 @@
 @@||stats.brave.com^
 @@||variations.brave.com^
 
-@@||telemetry.proton.me^
-@@||surfshark.events^
+@@||protonvpn.com^
+@@||surfshark.com^

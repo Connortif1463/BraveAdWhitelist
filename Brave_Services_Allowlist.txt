@@ -15,5 +15,5 @@
 @@||stats.brave.com^
 @@||variations.brave.com^
 
-@@||https://protonvpn.com/?ref=pme_lp_b2c_proton_submenu
-@@||https://surfshark.com/
+@@||telemetry.proton.me^
+@@||surfshark.events^
